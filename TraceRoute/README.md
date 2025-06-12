@@ -1,7 +1,5 @@
 # TraceRoute
 
-This README file describes how to use the traceroute analysis tool.
-
 To run the program use `python P3_Fall2024.py`. The following output will be printed:
 
 
